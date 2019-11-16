@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649989430955",
+    "firebase_url": "https://answerme-3beff.firebaseio.com",
+    "project_id": "answerme-3beff",
+    "storage_bucket": "answerme-3beff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649989430955:android:fd9ba6018efbda491aa1ee",
+        "android_client_info": {
+          "package_name": "com.example.answerme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649989430955-49fmjl2bk4i8man4if0dm0les36vkrr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZeBQ5QcAZfB2-R6RBEdj9Ayj43TCmsQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649989430955-49fmjl2bk4i8man4if0dm0les36vkrr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">649989430955-49fmjl2bk4i8man4if0dm0les36vkrr3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://answerme-3beff.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">649989430955</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZeBQ5QcAZfB2-R6RBEdj9Ayj43TCmsQ4</string>
+    <string name="google_app_id" translatable="false">1:649989430955:android:fd9ba6018efbda491aa1ee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZeBQ5QcAZfB2-R6RBEdj9Ayj43TCmsQ4</string>
+    <string name="google_storage_bucket" translatable="false">answerme-3beff.appspot.com</string>
+    <string name="project_id" translatable="false">answerme-3beff</string>
+</resources>
